@@ -25,7 +25,7 @@
         "mongodb": "3.6.4",
         "msgpack-js": "0.3.0",
         "mx-connect": "1.2.0",
-        "nodemailer": "git+https://github.com/nodemailer/nodemailer.git",
+        "nodemailer": "git+https://github.com/notimobi/nodemailer.git",
         "npmlog": "4.1.2",
         "prom-client": "13.1.0",
         "request": "2.88.2",
